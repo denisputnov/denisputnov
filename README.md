@@ -1,7 +1,5 @@
 ### Hi there, I'm Putnov Denis - grnbows👋
 
----
-
 ## I'm a Developer, VSU Student, and Content Maker[RU]!
 
 - I'm currently working on my pet-projects 😮
@@ -13,8 +11,6 @@
 <a href="https://vk.com/grnbows"><img align="center" alt="Telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/vkcom.svg" /></a> 
 <a href="https://www.instagram.com/grnbows/"><img align="center" alt="Telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></a>
 - Fun fact: in the past I'm a graphic designer, also I love play guitar🎸
-
----
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" /><br><br><br><br><br><br><br><br>
 
