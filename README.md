@@ -15,7 +15,7 @@
 ---
 
 <a href="https://github.com/grnbows">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&exclude_repo=Courses" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&exclude_repo=Courses,codeye" />
 </a>
 <a href="https://github.com/grnbows">
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" /></a>
