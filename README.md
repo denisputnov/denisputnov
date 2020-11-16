@@ -13,10 +13,10 @@
 - Fun fact: in the past I'm a graphic designer, also I love play guitar 🎸
 
 ---
-
-<img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" /><br>
 <a href="https://github.com/grnbows">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&exclude_repo=Couses" />
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" /></a>
+<a href="https://github.com/grnbows">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&exclude_repo=Courses" />
 </a>
 <br>
 <i>With respect and love,<br>Putnov Denis.</i>
