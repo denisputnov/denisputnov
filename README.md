@@ -15,9 +15,10 @@
 ---
 
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" /><br>
-<a href="https://github.com/syth0le">
+<a href="https://github.com/grnbows">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&exclude_repo=Couses" />
 </a>
+<br>
 <i>With respect and love,<br>Putnov Denis.</i>
 
 Copyright © 2020 Denis Putnov. All rights reserved.
