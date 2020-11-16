@@ -15,7 +15,7 @@
 ---
 
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true&theme=buefy&hide=contribs,prs" /><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <i>With respect and love,<br>Putnov Denis.</i>
 
