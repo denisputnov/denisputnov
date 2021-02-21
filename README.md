@@ -34,8 +34,8 @@
 
 ### GitHub Analytics:
 
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&hide=jupyter%20notebook&exclude_repo=codeye" />
-<img height="160em" align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true" />
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&hide=jupyter%20notebook&exclude_repo=codeye" />
+<img height="160em" align="right" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true" />
 
 
 
