@@ -11,8 +11,6 @@
 [<img align="left" alt="Denis Putnov | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg"/>][telegram]
 [<img align="left" alt="Denis Putnov | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>][twitter] &nbsp;
 
----
-
 ### Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5&logoColor=E34F26)&nbsp;
@@ -34,7 +32,7 @@
 
 ### GitHub Analytics:
 
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&layout=compact&hide=jupyter%20notebook&exclude_repo=codeye" />
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=codeye" />
 <img height="160em" align="right" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grnbows&show_icons=true&hide_border=true&show_owner=true" />
 
 
