@@ -17,6 +17,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat-square&logo=SASS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)&nbsp;
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
@@ -32,7 +35,7 @@
 
 ### GitHub Analytics:
 
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=codeye" />
+<img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnbows&langs_count=8&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=codeye" />
 
 
 
