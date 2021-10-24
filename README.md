@@ -1,4 +1,4 @@
-![Header image](./header.webp)
+![Header image](./head.webp)
 
 ## Hi, I am Denis Putnov
 
